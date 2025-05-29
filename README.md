@@ -28,7 +28,7 @@ Instala las dependencias:
 npm install
 ```
 
-🔧 Scripts disponibles
+🔧 Scripts: 
 Ejecutar en modo desarrollo
 
 ```bash
@@ -41,4 +41,13 @@ Este proyecto está bajo la licencia MIT.
 
 ---
 
-¿Quieres que adapte este `README.md` a un estilo más formal, resumido o con secciones adicionales (como capturas de pantalla o instrucciones de despliegue)?
+## 🛠️ Tecnologías utilizadas
+
+1. **React** – Biblioteca para construir interfaces de usuario.
+2. **Vite** – Herramienta de desarrollo rápida y moderna.
+3. **TailwindCSS** – Framework de estilos CSS utilitario.
+4. **TypeScript** – Superset de JavaScript con tipado estático.
+5. **React Router DOM** – Enrutamiento para aplicaciones React.
+6. **Recharts** – Gráficos y visualizaciones basadas en React.
+7. **Framer Motion** – Animaciones para React.
+8. **React DnD** – Drag and Drop para interfaces en React.
